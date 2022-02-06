@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "python.pythonPath": "C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
